@@ -21,7 +21,10 @@ To use this plugin, ensure you have:
 
 ## Installation
 
-1. **Download the plugin** from the release ppage and place it into the Endstone server's plugins folder.
+1. To **Download the plugin** go to the [actions page](https://github.com/endstone-essentials/discord/actions/workflows/build.yml)
+3. Select the latest successfull build
+4. Unzip it
+5. Put the .whl file in the plugins folder of your endstone server
 2. Restart or reload your Endstone server to generate the configuration file.
 
 ---
